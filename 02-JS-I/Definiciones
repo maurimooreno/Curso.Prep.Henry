@@ -1,0 +1,14 @@
+* Variables
+    Es un elemento que almacena datos.
+
+* Strings
+    Se conforma por uno o mas caracteres de tipo alfanumericos y es un tipo de datos.
+
+* Funciones (argumentos, `return`)
+    Es un bloque de codigo el cual se invoca por su dnombre definido y puede solicitar argumentos si este los requiere, dentro de su bloque se encuentra el codigo que va a implementar esa funcion.
+
+* Declaraciones `if`
+    Es un statment que envuelve el codigo a ejecutar en su interior y para acceder a este se debe cumplir la condicion que solicita.
+
+* Valores booleanos (`true`, `false`)
+    tipo de datos de tipo boolean, indica si algo es verdadero o falso.
