@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+        Es una coleccion de propiedades y metodos que se identifican por un nombre y un valor (key, value).
+
+	* Propiedades
+        Son similares a una variable, definen las caracteristicas de un objeto.
+
+	* Métodos
+        Es una propiedad de un objeto que es una funcion.
+
+	* Bucle `for…in`
+        La instrucción for-in itera sobre todas las propiedades enumerables de un objeto.
+
+	* Notación de puntos vs notación de corchetes
+        Ambos son metodos que permiten acceder a las propiedades de un objeto, con la diferencia de que
+        la notacion por punto solo acepta nombres de idenficadores validos y la notacion por corchetes evalua un identificador de tipo cadena, lo que hace que no sea limitada.
